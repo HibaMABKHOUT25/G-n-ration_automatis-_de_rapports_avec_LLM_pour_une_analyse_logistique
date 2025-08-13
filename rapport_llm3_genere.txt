@@ -1,0 +1,20 @@
+ **Rapport d'Analyse Logistique pour la Zone Urbaine de Casablanca**
+
+   Nous avons mené une analyse logistique en se basant sur les prévisions de demande et des résultats d’optimisation ACO (Algorithme de Colonies de Fourmis) concernant 80 clients de la métropole étendue de Casablanca.
+
+   **1. Analyse de la répartition de la demande**
+
+   Les clients les plus en demande sont CL44, CL68, CL79, CL49, CL78 avec des volumes de demande supérieurs à 540 unités. Ces résultats indiquent que ces points de livraison doivent être prioritaires pour le déploiement de la flotte. Il est également important de tenir compte du jour de demande exceptionnelle qui se produira les 2025-03-27, 2025-02-19 et 2024-12-27 avec des volumes de demande élevés.
+
+   **2. Utilisation de la flotte**
+
+   Les résultats montrent une utilisation optimale de la flotte, car aucun véhicule sous-utilisé n'a été détecté. La moyenne des distances et des émissions de CO2 est relativement importante mais cela est expliqué par la grande taille de Casablanca. Il est donc important de tenir compte de ce contexte lors de l’interprétation des résultats.
+
+   **3. Recommandations**
+
+   Pour améliorer la logistique urbaine de Casablanca, nous recommandons les suivantes :
+
+   - Mise en place d'une flotte hybride pour réduire les émissions de CO2 et diminuer les coûts de fonctionnement des véhicules.
+   - Optimisation du trafic en collaboration avec les autorités locales, afin de minimiser la congestion et améliorer l'efficacité de la distribution.
+
+   Nous espérons que ces recommandations seront utiles pour améliorer le système logistique de Casablanca.
